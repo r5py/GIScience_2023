@@ -63,11 +63,11 @@ templates_path = ["_templates"]
 
 html_theme_options = {
     # "external_links": [],
-    "single_page": False,
+    # "single_page": False,
     "toc_title": "Contents",
     "use_download_button": False,
     "show_toc_level": 0,
-    "repository_url": "https://github.com/",
+    # "repository_url": "",
     "repository_branch": "master",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/pythongis",
@@ -112,7 +112,7 @@ html_sidebars = {
 }
 
 # Allow errors
-execution_allow_errors = True
+nb_execution_allow_errors = True
 
 # Do not execute cells
-jupyter_execute_notebooks = "off"
+nb_execution_mode = "off"
