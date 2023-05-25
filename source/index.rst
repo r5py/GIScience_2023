@@ -22,7 +22,7 @@ We invite submissions of short research papers (1500-4000 words) or abstracts (2
 
 Participants in this workshop are invited to extend their contributions for submission to the **special issue of Computers, Environment and Urban Systems** on `Equitable and Socially Sustainable Mobility <https://platial.science/si2023>`__.
 
- Submissions on a variety of topics are welcome including, but not limited to:
+Submissions on a variety of topics are welcome including, but not limited to:
 
 - Spatial and equity analysis of accessibility
 - Mobility justice and sustainability
