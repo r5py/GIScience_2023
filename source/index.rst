@@ -18,7 +18,11 @@ This workshop aims at bringing to the forefront open scientific software, data-d
 Participate
 ===========
 
-We invite submissions of short research papers (1500-4000 words) or abstracts (200-500 words) that **describe novel open-source computational tools and methodological advancements** aligned with the general theme of the workshop of equitable and sustainable accessibility and mobility, including, but not limited to, the following topics:
+We invite submissions of short research papers (1500-4000 words) or abstracts (200-500 words) that **describe novel open-source computational tools and methodological advancements** aligned with the general theme of the workshop of equitable and sustainable accessibility and mobility. All papers and abstracts will undergo peer-review with accepted papers being published online with a volume DOI (via the `Open Science Foundation <https://osf.io/>`__).
+
+Participants in this workshop are invited to extend their contributions for submission to the **special issue of Computers, Environment and Urban Systems** on `Equitable and Socially Sustainable Mobility <https://platial.science/si2023>`__.
+
+ Submissions on a variety of topics are welcome including, but not limited to:
 
 - Spatial and equity analysis of accessibility
 - Mobility justice and sustainability
