@@ -18,31 +18,36 @@ This workshop aims at bringing to the forefront open scientific software, data-d
 Participate
 ===========
 
-We invite submissions of short research papers (1500-4000 words) or abstracts (200-500 words) that describe novel open-source computational tools and methodological advancements aligned with the general theme of the workshop of equitable and sustainable accessibility and mobility, including, but not limited to, the following topics:
+We invite submissions of short research papers (1500-4000 words) or abstracts (200-500 words) that **describe novel open-source computational tools and methodological advancements** aligned with the general theme of the workshop of equitable and sustainable accessibility and mobility, including, but not limited to, the following topics:
 
 - Spatial and equity analysis of accessibility
-- Incorporating environmental aspects to accessibility and mobility
-- Using new forms of data for the analysis of inequalities and sustainable mobility
-- Exploring the relationship between accessibility and active travel
-- Travel modes and new forms of mobility data
-- Tools and models for generating sustainable mobility (and accessibility) futures
-- Inequalities in walkability or bikeability
-- Equity considerations on micromobility and shared mobility
 - Mobility justice and sustainability
+- Open tools for mobility analysis
+- Equity considerations on micromobility and shared mobility
 - Sustainable mobility and gender
 - Accessibility and sustainable mobility for an ageing society
+- New forms of data for the analysis of inequalities and sustainable mobility
+- Data bias and sustainable mobility analysis
+- Exploring the relationship between accessibility and active travel
+- Travel modes and new forms of mobility data
+- Inequalities in walkability or bikeability
+- Equitable urban design
+- Sustainable urban vitality and urban vibrancy
 
 Submission guidelines
 ---------------------
 
-Submissions of short research papers or abstract in a PDF format should be directly uploaded to the easychair platform (*link TBA*) and should follow the `Lecture Notes in Computer Science <https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj>`__ format.
+Submissions of short research papers or abstract in a PDF format should be directly uploaded to the `easychair platform <https://easychair.org/cfp/EASM-OTESAMA23>`__ and should follow the `Lecture Notes in Computer Science <https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj>`__ format.
 
 ------------
 
-Key dates
-=========
+Important dates
+===============
 
-TBA.
+- Short paper & abstract submission deadline: **July 7, 2023**
+- Notification: August 4, 2023
+- Camera-ready deadline: August 18, 2023
+- Workshop: September 12, 2023
 
 ------------
 
@@ -109,7 +114,22 @@ Workshop chairs
 Program committee
 -----------------
 
-TBA.
+- Clio Andris, Georgia Tech
+- Victoria Fast, University of Calgary
+- Vanessa Frias-Martinez, University of Maryland
+- Song Gao, University of Wisconsin
+- Yingjie Hu, University at Buffalo
+- Krzysztof Janowicz, University of Vienna
+- Carsten Keßler, Bochum University of Applied Sciences
+- Jed Long, Western University
+- Trisalyn Nelson, University of California, Santa Barbara
+- Avipsa Roy, University of California, Irvine
+- Michael Szell, IT University of Copenhagen
+- Martin Tomko, University of Melbourne
+- Qunshan Zhao, University of Glasgow
+- Rui Zhu, University of Bristol
+
+*More TBA*
 
 ------------
 
