@@ -48,7 +48,7 @@ Submissions of short research papers or abstract in a PDF format should be direc
 Important dates
 ===============
 
-- Short paper & abstract submission deadline: **July 7, 2023**
+- Short paper & abstract submission deadline: :strike:`July 7` **July 14, 2023**
 - Notification: August 4, 2023
 - Camera-ready deadline: August 18, 2023
 - Workshop: September 12, 2023

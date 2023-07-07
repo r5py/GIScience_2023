@@ -34,6 +34,7 @@ extensions = [
     'IPython.sphinxext.ipython_directive',
     'myst_nb',
     "sphinx_design",
+    "sphinxnotes.strike",
 ]
 
 # List of patterns, relative to source directory, that match files and
