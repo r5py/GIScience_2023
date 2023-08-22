@@ -82,12 +82,6 @@ The workshop will take place from 1:00 pm to 5:00 pm on September 12th at Leeds 
 
 ------------
 
-Accepted abstracts
-==================
-
-
-
-
 Important dates
 ===============
 
