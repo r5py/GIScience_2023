@@ -63,9 +63,9 @@ The workshop will take place from 1:00 pm to 5:00 pm on September 12th at Leeds 
     * - 13:00-13:15
       - **Welcome** |br| *Henrikki Tenkanen*
     * - 13:15-13:30
-      - `Land-Use Transport-Interaction modelling for sustainable mobility in metropolitan areas. <https://osf.io/sj3vx/>`__ |br| *Fulvio Lopane, Eleni Kalantzi, Richard Milton & Michael Batty*
-    * - 13:30-13:45
       - `Equity Analyses of Transport Futures. <https://osf.io/sj3vx/>`__ |br| *Steven Farber & Willem Klumpenhouwer*
+    * - 13:30-13:45
+      - `Land-Use Transport-Interaction modelling for sustainable mobility in metropolitan areas. <https://osf.io/sj3vx/>`__ |br| *Fulvio Lopane, Eleni Kalantzi, Richard Milton & Michael Batty*
     * - 13:45-14:00
       - `Developing Flexible and Interoperable Multimodal Urban Models and Tools for Integration of Urban and Public Transport Planning. <https://osf.io/sj3vx/>`__ |br| *Flavia Lopes, Jorge Gil & Ioanna Stavroulaki*
     * - 14:00-14:15
