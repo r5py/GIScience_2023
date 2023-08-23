@@ -63,21 +63,21 @@ The workshop will take place from 1:00 pm to 5:00 pm on September 12th at Leeds 
     * - 13:00-13:15
       - **Welcome** |br| *Henrikki Tenkanen*
     * - 13:15-13:30
-      - Land-Use Transport-Interaction modelling for sustainable mobility in metropolitan areas. |br| *Fulvio Lopane, Eleni Kalantzi, Richard Milton & Michael Batty*
+      - `Land-Use Transport-Interaction modelling for sustainable mobility in metropolitan areas. <https://osf.io/sj3vx/>`__ |br| *Fulvio Lopane, Eleni Kalantzi, Richard Milton & Michael Batty*
     * - 13:30-13:45
-      - Equity Analyses of Transport Futures. |br| *Steven Farber & Willem Klumpenhouwer*
+      - `Equity Analyses of Transport Futures. <https://osf.io/sj3vx/>`__ |br| *Steven Farber & Willem Klumpenhouwer*
     * - 13:45-14:00
-      - Developing Flexible and Interoperable Multimodal Urban Models and Tools for Integration of Urban and Public Transport Planning. |br| *Flavia Lopes, Jorge Gil & Ioanna Stavroulaki*
+      - `Developing Flexible and Interoperable Multimodal Urban Models and Tools for Integration of Urban and Public Transport Planning. <https://osf.io/sj3vx/>`__ |br| *Flavia Lopes, Jorge Gil & Ioanna Stavroulaki*
     * - 14:00-14:15
       - **Break**
     * - 14:15-14:30
-      - TransitAccess: A Python, GTFS-based transit index incorporating centrality and spatio-temporal accessibility. |br| *Florian Nachtigall & Felix Creutzig*
+      - `TransitAccess: A Python, GTFS-based transit index incorporating centrality and spatio-temporal accessibility. <https://osf.io/sj3vx/>`__ |br| *Florian Nachtigall & Felix Creutzig*
     * - 14:30-14:45
-      - Towards Just Neighbourhoods: Leveraging Geospatial Data Science to Understand Night-Time Public Transport Variability in British Cities. |br| *J. Rafael Verduzco-Torres, Nick Bailey & David McArthur*
+      - `Towards Just Neighbourhoods: Leveraging Geospatial Data Science to Understand Night-Time Public Transport Variability in British Cities. <https://osf.io/sj3vx/>`__ |br| *J. Rafael Verduzco-Torres, Nick Bailey & David McArthur*
     * - 14:45-15:00
       - **Break**
     * - 15:00-17:00
-      - **Hands-on tutorial:** Using `r5py <https://r5py.readthedocs.io/en/stable/>`__ or `r5r <https://ipeagit.github.io/r5r/>`__ and related tools for large-scale spatial accessibility analysis with Python or R.
+      - **Hands-on tutorial:** Using `r5py <https://r5py.readthedocs.io/en/stable/>`__ or `r5r <https://ipeagit.github.io/r5r/>`__ and related tools for large-scale spatial accessibility analysis with Python or R. |br| *Henrikki Tenkanen, Rafael H.M. Pereira, Christoph Fink & Matti Pönkänen*
 
 
 ------------
