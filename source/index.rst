@@ -120,7 +120,7 @@ Workshop chairs
         :text-align: center
 
         Uni. Helsinki, FI |br|
-        `🔗 <https://christophfink.com/blog/about-me/>`__
+        `🔗 <https://christophfink.com/>`__
         `🐦 <https://twitter.com/chrxf>`__
 
     .. grid-item-card:: Grant McKenzie
