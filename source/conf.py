@@ -96,7 +96,7 @@ html_theme_options = {
     """,
 
     # Possible announcement for the page
-    # "announcement": ("It is possible to add an announcement on the top of the page."),
+    "announcement": ("You can now prepare for the workshop's hands-on session by installing the Python libraries! Check the instructions on a dedicated page from the left."),
 }
 
 html_sidebars = {
