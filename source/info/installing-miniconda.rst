@@ -41,10 +41,10 @@ and running command ``conda --version``. If the command returns a version number
 
 macOS
 ~~~~~~~~
-Visit the `Miniconda download page <https://docs.conda.io/en/latest/miniconda.html#macosx-installers>`__ and download the latest
-Python 3.8 installer for macOSX.
+Visit the `Miniconda download page <https://docs.conda.io/projects/miniconda/en/latest/#latest-miniconda-installer-links>`__ and download the latest
+Python 3.11 installer for macOSX.
 
-.. figure:: img/miniconda-osx.png
+.. figure:: ../img/miniconda-install-macos.png
     :width: 600px
     :align: center
     :alt: Downloading the latest Miniconda for Mac
