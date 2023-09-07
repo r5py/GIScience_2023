@@ -4,50 +4,21 @@ channels:
   - conda-forge
 
 dependencies:
-  - python=3.10
-  - access
-  - contextily
-  - cykhash=2.0.0
-  - dash
-  - elevation
-  - folium
+  - python=3.11
   - geopandas
-  - geoplot
   - geopy
-  - geoviews
-  - git
-  - hvplot
-  - jupyterlab=3.0.6
+  - jupyterlab
   - jupyterlab-git
   - mamba
   - mapclassify
   - matplotlib
   - momepy
-  - movingpandas
-  - networkx
-  - openjdk=11.0.1
   - osmnx
   - owslib
-  - pandana
-  - pandas
-  - plotly_express
-  - pyrosm
+  - pandas<2.1.0
   - pysal
-  - python-igraph
-  - r5py
-  - rasterio
-  - rioxarray
-  - scikit-learn
-  - scikit-mobility
-  - scipy
-  - segregation
-  - shapely<2.0
-  - spaghetti
-  - splot
-  - spreg
-  - tqdm
-  - urbanaccess
-  - xarray
+  - r5py>=0.1.1.dev0
   - pip
   - pip:
-      - geostream
+      - r5py.sampledata.helsinki>=0.1.1.dev0
+      - r5py.sampledata.sao_paulo>=0.1.1.dev0
