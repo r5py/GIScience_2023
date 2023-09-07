@@ -90,9 +90,9 @@ html_theme_options = {
     # Add GIScience logo
     "extra_navbar": """
     <p><b>Sister workshop:</b></p>
-    <a href='https://ptal-io.github.io/easm2023/'  target='_blank'> <img src='_static/EASM_logo.png'> </a>
+    <a href='https://ptal-io.github.io/easm2023/'  target='_blank'> <img src='https://raw.githubusercontent.com/r5py/GIScience_2023/1c4619d401c62295d3df96b725891a9a40416c64/source/_static/EASM_logo.png'> </a>
     <p><br><b>Main conference:</b></p>
-    <a href='https://giscience2023.github.io'  target='_blank'> <img src='_static/GIScience_logo.png'> </a>
+    <a href='https://giscience2023.github.io'  target='_blank'> <img src='https://github.com/r5py/GIScience_2023/blob/1c4619d401c62295d3df96b725891a9a40416c64/source/_static/GIScience_logo.png?raw=true'> </a>
     """,
 
     # Possible announcement for the page
