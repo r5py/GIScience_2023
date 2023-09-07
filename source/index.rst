@@ -181,3 +181,13 @@ Please contact Henrikki Tenkanen at henrikki.tenkanen@aalto.fi with any workshop
 .. |br| raw:: html
 
       <br>
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Information
+
+   info/installing-miniconda
+   info/License-terms
