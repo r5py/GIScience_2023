@@ -103,16 +103,19 @@ After installing `mamba`, the main steps for creating and using a conda environm
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
+Download and create the Python environment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 We have prepared a ready-made environment file for you (called ``environment.yml``). You can download the file from the link below. The same file can be used with all operating systems
 (on the download page: righ-click the ``Raw`` button -> And press ``Save link as ..``):
 
-- `Windows | MacOS | Linux  <https://github.com/r5py/GIScience_2023/blob/master/ci/environment.yml>`__
+- `DOWNLOAD for Windows | MacOS | Linux  <https://github.com/r5py/GIScience_2023/blob/master/ci/environment.yml>`__
 
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
 The commands below work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
-1. Create the Python environment based on the file that you downloaded by using a terminal (or command prompt)
+1. **Create the Python environment** based on the file that you downloaded by using a terminal (or command prompt)
 and executing the following command in the directory where you downloaded the `.yml` file:
 
 .. code-block::
