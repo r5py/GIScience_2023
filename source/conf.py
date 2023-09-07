@@ -68,7 +68,7 @@ html_theme_options = {
     "toc_title": "Contents",
     "use_download_button": False,
     "show_toc_level": 0,
-    # "repository_url": "",
+    "repository_url": "https://github.com/r5py/GIScience_2023",
     "repository_branch": "master",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/pythongis",
