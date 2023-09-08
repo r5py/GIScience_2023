@@ -6,6 +6,8 @@ Install Python & R + libraries
     **The installation procedures used here are targeted for a use-case when you want to run Python and R side-by-side running Jupyter Notebooks**.
     Hence, the instructions provided here differ from how you would typically install R packages when using e.g. R-Studio.
 
+    Note: If you are using R, it is probably easier if you just install the required packages directly in R-Studio using ``install.packages()`` -function.
+
 The purpose of this page is to help you to install Python and R including the required libraries for them
 into your own computer for the use of this tutorial.
 **We highly recommend using** `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ to install libraries (especially Python libraries).
@@ -108,6 +110,16 @@ After installing `mamba`, the main steps for creating and using a conda environm
 1. create the environment from environment.yml file using mamba,
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
+
+.. warning::
+
+    The following might not install the R-environment properly on Windows (Python environment should work just fine).
+
+    In case you are using Windows and are interested in using R for your analyses, we recommend:
+
+      - installing the environment using `Windows Subsystem for Linux (WSL) <https://learn.microsoft.com/en-us/windows/wsl/about>`__, or
+      - installing the required R-packages (namely ``r5r``) as you would do normally in R Studio (``install.packages(...)``)
+
 
 Download and create the environment for Python & R
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
