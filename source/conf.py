@@ -72,7 +72,7 @@ html_theme_options = {
     # "external_links": [],
     # "single_page": False,
     "toc_title": "Contents",
-    "use_download_button": False,
+    "use_download_button": True,
     "show_toc_level": 0,
     "repository_url": "https://github.com/r5py/GIScience_2023",
     "repository_branch": "master",
