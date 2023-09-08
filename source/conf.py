@@ -62,11 +62,11 @@ html_title = "OTESAMA <br> Workshop '23"
 # Custom header
 #templates_path = ["_templates"]
 
-source_suffix = {
-    ".rst": "restructuredtext",
-    ".ipynb": "myst-nb",
-    ".myst": "myst-nb",
-}
+#source_suffix = {
+#    ".rst": "restructuredtext",
+#    ".ipynb": "myst-nb",
+#    ".myst": "myst-nb",
+#}
 
 html_theme_options = {
     # "external_links": [],
