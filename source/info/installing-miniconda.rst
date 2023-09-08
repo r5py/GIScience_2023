@@ -6,7 +6,7 @@ Install Python & R + libraries
     **The installation procedures used here are targeted for a use-case when you want to run Python and R side-by-side running Jupyter Notebooks**.
     Hence, the instructions provided here differ from how you would typically install R packages when using e.g. R-Studio.
 
-The purpose of this page is to help you to install Python and R including the required Python and R packages
+The purpose of this page is to help you to install Python and R including the required libraries for them
 into your own computer for the use of this tutorial.
 **We highly recommend using** `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ to install libraries (especially Python libraries).
 Miniconda can be used to install libraries for Python, R and Julia languages. It comes by default with Python and a small number of essential packages.
