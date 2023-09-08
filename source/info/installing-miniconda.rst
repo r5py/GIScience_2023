@@ -118,7 +118,7 @@ After installing `mamba`, the main steps for creating and using a conda environm
     In case you are using Windows and are interested in using R for your analyses, we recommend:
 
     - installing the environment using `Windows Subsystem for Linux (WSL) <https://learn.microsoft.com/en-us/windows/wsl/about>`__, or
-    - installing the required R-packages (namely ``r5r``) as you would do normally in R Studio (``install.packages(...)``). In this case, install also `Java OpenJDK 11 <https://jdk.java.net/java-se-ri/11>`__ to your computer.
+    - installing the required R-packages (see `this list <https://github.com/r5py/GIScience_2023/blob/master/ci/r-packages.txt>`__) as you would do normally in R Studio (``install.packages(...)``). In this case, install also `Java OpenJDK 11 <https://jdk.java.net/java-se-ri/11>`__ to your computer.
 
 
 Download and create the environment for Python & R
@@ -164,8 +164,8 @@ Note, Jupyter Lab will probably prompt you to "Build" the installation in order 
 
 .. hint::
 
-    If you want to install some additional packages to your conda environment, ensure you have activated it (step 2 above) and
-    install the package that you wish to install following the guidelines below.
+    In case you are using R, and just want to install the required packages as you would do normally,
+    **you can find the list of required R packages** `FROM HERE <https://github.com/r5py/GIScience_2023/blob/master/ci/r-packages.txt>`__.
 
 Note about OpenJDK Java Development Kit
 ---------------------------------------

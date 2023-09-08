@@ -200,5 +200,5 @@ Contents
    :maxdepth: 1
    :caption: Hands-on Tutorial
 
-   notebooks/r5py_demo.ipynb
-   notebooks/r5r_demo.ipynb
+   .. notebooks/r5py_demo.ipynb
+   .. notebooks/r5r_demo.ipynb
