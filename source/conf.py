@@ -59,14 +59,25 @@ html_css_files = ["custom.css"]
 #html_logo = '_static/GIScience_logo.png'
 html_title = "OTESAMA <br> Workshop '23"
 
+# Download Notebook as .ipynb, not as text file
+# See https://github.com/executablebooks/sphinx-book-theme/issues/639
+html_sourcelink_suffix = ""
+html_source_suffix = ""
+
 # Custom header
-templates_path = ["_templates"]
+#templates_path = ["_templates"]
+
+#source_suffix = {
+#    ".rst": "restructuredtext",
+#    ".ipynb": "myst-nb",
+#    ".myst": "myst-nb",
+#}
 
 html_theme_options = {
     # "external_links": [],
     # "single_page": False,
     "toc_title": "Contents",
-    "use_download_button": False,
+    "use_download_button": True,
     "show_toc_level": 0,
     "repository_url": "https://github.com/r5py/GIScience_2023",
     "repository_branch": "master",

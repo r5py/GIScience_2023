@@ -19,12 +19,13 @@ dependencies:
   - pandas<2.1.0
   - pysal
   - r5py>=0.1.1.dev0
+  - r-base
   - r-checkmate
   - r-codetools
   - r-concaveman
   - r-data.table
   - r-devtools
-  - r-geojsonio
+  # - r-geojsonio - Causes conflicts between R and Python - Install using R
   - r-ggplot2
   - r-interp
   - r-irkernel
