@@ -118,7 +118,7 @@ After installing `mamba`, the main steps for creating and using a conda environm
     In case you are using Windows and are interested in using R for your analyses, we recommend:
 
       - installing the environment using `Windows Subsystem for Linux (WSL) <https://learn.microsoft.com/en-us/windows/wsl/about>`__, or
-      - installing the required R-packages (namely ``r5r``) as you would do normally in R Studio (``install.packages(...)``)
+      - installing the required R-packages (namely ``r5r``) as you would do normally in R Studio (``install.packages(...)``). In this case, install also `Java OpenJDK 11 <https://jdk.java.net/java-se-ri/11>`__ to your computer.
 
 
 Download and create the environment for Python & R
