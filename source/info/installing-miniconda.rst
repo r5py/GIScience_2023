@@ -174,6 +174,7 @@ Note about OpenJDK Java Development Kit
 In case you have installed the Python environment as instructed above, 
 you don't need to do anything as the Java JDK came with the Python environment!
 
+In case you install the libraries using other approach (e.g. from PyPi, or using R ``install.packages()``), please `install the OpenJDK 11 from here <https://jdk.java.net/java-se-ri/11>`__.
 
 General guide for installing packages with Mamba/Conda
 ------------------------------------------------------
