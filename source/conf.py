@@ -76,7 +76,7 @@ html_theme_options = {
     "use_edit_page_button": False,
     "use_repository_button": False,
     "launch_buttons": {
-        "binderhub_url": "https://notebooks.gesis.org/binder",
+        "binderhub_url": "https://mybinder.org",
         "thebe": False,
         "notebook_interface": "jupyterlab",
         "collapse_navigation": False,
