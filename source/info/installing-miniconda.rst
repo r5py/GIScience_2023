@@ -8,8 +8,8 @@ Install Python & R + libraries
 
 The purpose of this page is to help you to install Python and R including the required Python and R packages
 into your own computer for the use of this tutorial.
-**We highly recommend using** `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ to install Python.
-Miniconda comes with Python and a small number of essential packages.
+**We highly recommend using** `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ to install libraries (especially Python libraries).
+Miniconda can be used to install libraries for Python, R and Julia languages. It comes by default with Python and a small number of essential packages.
 Additional packages can be installed using the package management systems `mamba <https://mamba.readthedocs.io/en/latest/index.html>`_ or `conda <https://docs.conda.io/en/latest/>`__.
 Both offer similar functionality, but we suggest using mamba because it is significantly faster for installing the libraries needed for using Python for GIS.
 
@@ -42,7 +42,7 @@ Install Miniconda to your computer by double clicking the installer and install 
 Install it to **local user** and use the default settings.
 
 After the installation is completed, test that the package manager ``conda`` works by
-`opening an ``Anaconda prompt (miniconda3)`` from the start menu,
+opening an ``Anaconda prompt (miniconda3)`` from the start menu,
 and running command ``conda --version``. If the command returns a version number of conda (e.g. ``conda 4.5.9``) everything is working correctly.
 
 macOS
