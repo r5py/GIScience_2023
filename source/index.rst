@@ -191,3 +191,14 @@ Contents
 
    info/installing-miniconda
    info/License-terms
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Presentations
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Hands-on Tutorial
+
+   notebooks/r5py_demo.ipynb
+   notebooks/r5r_demo.ipynb
