@@ -1,5 +1,5 @@
 myst_nb
-sphinx-book-theme==1.0.0
+sphinx-book-theme
 sphinx
 sphinx-togglebutton
 sphinx-design

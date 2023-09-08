@@ -60,7 +60,7 @@ html_css_files = ["custom.css"]
 html_title = "OTESAMA <br> Workshop '23"
 
 # Custom header
-templates_path = ["_templates"]
+#templates_path = ["_templates"]
 
 source_suffix = {
     ".rst": "restructuredtext",
