@@ -62,6 +62,7 @@ html_title = "OTESAMA <br> Workshop '23"
 # Download Notebook as .ipynb, not as text file
 # See https://github.com/executablebooks/sphinx-book-theme/issues/639
 html_sourcelink_suffix = ""
+html_source_suffix = ""
 
 # Custom header
 #templates_path = ["_templates"]
