@@ -59,6 +59,10 @@ html_css_files = ["custom.css"]
 #html_logo = '_static/GIScience_logo.png'
 html_title = "OTESAMA <br> Workshop '23"
 
+# Download Notebook as .ipynb, not as text file
+# See https://github.com/executablebooks/sphinx-book-theme/issues/639
+html_sourcelink_suffix = ""
+
 # Custom header
 #templates_path = ["_templates"]
 
