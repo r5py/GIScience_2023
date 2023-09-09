@@ -19,9 +19,7 @@ Miniconda is a light-weight version of `Anaconda <https://www.anaconda.com/>`_ w
 languages for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment. In short,
 it makes life much easier when installing new tools to your Python.
 
-In case you already have Anaconda installed on your computer, you can continue using that during the course without a problem.
-**If you are new to Python and have not yet installed anything, we recommend you to start by**
-`installing Miniconda <https://docs.conda.io/en/latest/miniconda.html>`__.
+In case you already have Miniconda/Anaconda installed on your computer, you can continue using that without a problem.
 
 Install Miniconda
 -------------------
