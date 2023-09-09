@@ -65,15 +65,15 @@ The workshop will take place from 1:00 pm to 5:00 pm on September 12th at Leeds 
     * - 13:15-13:30
       - `Equity Analyses of Transport Futures. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *Steven Farber & Willem Klumpenhouwer*
     * - 13:30-13:45
-      - `Land-Use Transport-Interaction modelling for sustainable mobility in metropolitan areas. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *Fulvio Lopane, Eleni Kalantzi, Richard Milton & Michael Batty*
+      - `Land-Use Transport-Interaction modelling for sustainable mobility in metropolitan areas. <https://osf.io/mtcu6>`__ |br| *Fulvio Lopane, Eleni Kalantzi, Richard Milton & Michael Batty*
     * - 13:45-14:00
-      - `Developing Flexible and Interoperable Multimodal Urban Models and Tools for Integration of Urban and Public Transport Planning. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *Flavia Lopes, Jorge Gil & Ioanna Stavroulaki*
+      - `Developing Flexible and Interoperable Multimodal Urban Models and Tools for Integration of Urban and Public Transport Planning. <https://osf.io/5j2uz>`__ |br| *Flavia Lopes, Jorge Gil & Ioanna Stavroulaki*
     * - 14:00-14:15
       - **Break**
     * - 14:15-14:30
-      - `TransitAccess: A Python, GTFS-based transit index incorporating centrality and spatio-temporal accessibility. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *Florian Nachtigall & Felix Creutzig*
+      - `TransitAccess: A Python, GTFS-based transit index incorporating centrality and spatio-temporal accessibility. <https://osf.io/cjk7w>`__ |br| *Florian Nachtigall & Felix Creutzig*
     * - 14:30-14:45
-      - `Towards Just Neighbourhoods: Leveraging Geospatial Data Science to Understand Night-Time Public Transport Variability in British Cities. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__ |br| *J. Rafael Verduzco-Torres, Nick Bailey & David McArthur*
+      - `Towards Just Neighbourhoods: Leveraging Geospatial Data Science to Understand Night-Time Public Transport Variability in British Cities. <https://osf.io/4nehr>`__ |br| *J. Rafael Verduzco-Torres, Nick Bailey & David McArthur*
     * - 14:45-15:00
       - **Break**
     * - 15:00-17:00
@@ -200,5 +200,5 @@ Contents
    :maxdepth: 1
    :caption: Hands-on Tutorial
 
-   notebooks/r5py_demo.ipynb
-   notebooks/r5r_demo.ipynb
+   .. notebooks/r5py_demo.ipynb
+   .. notebooks/r5r_demo.ipynb
