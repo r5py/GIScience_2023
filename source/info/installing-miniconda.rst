@@ -157,7 +157,7 @@ You should now see the name of the environment at the start of the command line.
     python -c "import r5py"
 
 In case the command runs and does not return any errors, everything works!
-If not, i) ensure that you have activated the environment, i.e. step 2 above, ii) ensure that all packages installed properly at step 1.
+If not, i) ensure that you have activated the environment, (step 2 above), ii) ensure that all packages installed properly (step 1).
 
 4. **Launch JupyterLab IDE**
 
