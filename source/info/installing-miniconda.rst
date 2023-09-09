@@ -127,7 +127,8 @@ Download and create the environment for Python & R
 We have prepared a ready-made environment file for you (called ``environment.yml``). You can download the file from the link below. The same file can be used with all operating systems
 (on the download page: righ-click the ``Raw`` button -> And press ``Save link as ..``):
 
-- `DOWNLOAD for Windows | MacOS | Linux  <https://github.com/r5py/GIScience_2023/blob/master/ci/environment.yml>`__
+- `DOWNLOAD Python+R for Windows | MacOS | Linux  <https://github.com/r5py/GIScience_2023/blob/master/ci/environment.yml>`__
+- Alternatively for R users: `the list of required R packages <https://github.com/r5py/GIScience_2023/blob/master/ci/r-packages.txt>`__
 
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
@@ -149,7 +150,16 @@ and executing the following command in the directory where you downloaded the `.
 
 You should now see the name of the environment at the start of the command line.
 
-3. **Launch JupyterLab IDE**
+3. **Test that the installation works** by running follow command in terminal/command prompt:
+
+.. code-block::
+
+    python -c "import r5py"
+
+In case the command runs and does not return any errors, everything works!
+If not, i) ensure that you have activated the environment, i.e. step 2 above, ii) ensure that all packages installed properly at step 1.
+
+4. **Launch JupyterLab IDE**
 
 After you have installed all required packages, you can start working in a local Jupyter Lab environment that is
 linked to your ``geo`` conda environment by launching jupyter lab on the command line.
@@ -161,11 +171,6 @@ It's a good idea to first navigate to the folder where your Jupyter Notebook -fi
     jupyter lab
 
 Note, Jupyter Lab will probably prompt you to "Build" the installation in order to get the git-plugin to show.
-
-.. hint::
-
-    In case you are using R, and just want to install the required packages as you would do normally,
-    **you can find the list of required R packages** `FROM HERE <https://github.com/r5py/GIScience_2023/blob/master/ci/r-packages.txt>`__.
 
 Note about OpenJDK Java Development Kit
 ---------------------------------------
