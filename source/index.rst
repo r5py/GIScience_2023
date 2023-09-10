@@ -197,10 +197,9 @@ Contents
    :caption: Presentations
 
    presentations/welcome_to_workshop
-   presentations/intro_to_tutorial
-   presentations/accessibility-modelling
+   presentations/intro_to_tutorial_and_accessibility
    presentations/r5py_and_r5r_tools
-   presentations/intro_to_tutorial
+   .. presentations/r5r_advanced_features
 
 .. toctree::
    :maxdepth: 1
