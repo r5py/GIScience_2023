@@ -1,4 +1,4 @@
-`r5py` / `r5r` sister packages for Python and R
+``r5py`` / ``r5r`` sister packages for Python and R
 ===============================================
 
 .. raw:: html
