@@ -17,6 +17,7 @@ dependencies:
   - osmnx
   - owslib
   - pandas<2.1.0
+  - pyogrio
   - pysal
   - r5py>=0.1.1.dev0
   - r-checkmate
