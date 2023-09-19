@@ -193,17 +193,18 @@ Contents
    info/License-terms
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Presentations
 
    presentations/welcome_to_workshop
-   presentations/intro_to_tutorial_and_accessibility
-   presentations/r5py_and_r5r_tools
-   presentations/r5r_advanced_features
+   presentations/short_talks
 
 .. toctree::
    :maxdepth: 1
    :caption: Hands-on Tutorial
 
+   presentations/intro_to_tutorial_and_accessibility
+   presentations/r5py_and_r5r_tools
+   presentations/r5r_advanced_features
    notebooks/r5py_demo.ipynb
    notebooks/r5r_demo.ipynb

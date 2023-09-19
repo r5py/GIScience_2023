@@ -107,7 +107,7 @@ html_theme_options = {
     """,
 
     # Possible announcement for the page
-    "announcement": ("📢 You can now prepare for the workshop by installing the Python & R libraries! Check the instructions on a dedicated page from the left panel. 📢"),
+    "announcement": ("📢 All presentations of the accepted papers can now be found under the 'Accepted papers - Short talks' -page. 📢"),
 }
 
 html_sidebars = {
