@@ -10,7 +10,8 @@ Steven Farber & Willem Klumpenhouwer
 
 .. raw:: html
 
-    <iframe src="https://utoronto-my.sharepoint.com/personal/steven_farber_utoronto_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsteven%5Ffarber%5Futoronto%5Fca%2FDocuments%2Fdocs%2FTeaching%2FZZ%5FGuest%2FEquity%20of%20Transport%20Futures%20%2D%20September%2012%202023%2Emov&ga=1" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://drive.google.com/file/d/1I6Hvp4e5K987iOLwHPp1H95plndmjwrE/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 Fulvio Lopane et al.
 --------------------
