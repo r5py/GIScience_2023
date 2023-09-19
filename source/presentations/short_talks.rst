@@ -43,4 +43,4 @@ J. Rafael Verduzco-Torres, Nick Bailey & David McArthur (2023). `Towards Just Ne
 
 .. raw:: html
 
-    <iframe src="https://drive.google.com/file/d/1uOnAtaKMZx2NzH0figPcHIyyWCGCpOSl/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1uOnAtaKMZx2NzH0figPcHIyyWCGCpOSl/preview" width="960" height="569"></iframe>
