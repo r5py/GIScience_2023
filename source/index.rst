@@ -193,7 +193,7 @@ Contents
    info/License-terms
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Presentations
 
    presentations/welcome_to_workshop
