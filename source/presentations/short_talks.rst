@@ -6,7 +6,7 @@ Below you can find the presentations of all speakers that were accepted for a ta
 Steven Farber & Willem Klumpenhouwer
 ------------------------------------
 
-**Steven Farber** & Willem Klumpenhouwer (2023). `Equity Analyses of Transport Futures <https://doi.org/10.17605/OSF.IO/SJ3VX>.`__
+**Steven Farber** & Willem Klumpenhouwer (2023). `Equity Analyses of Transport Futures. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__
 
 Fulvio Lopane et al.
 --------------------
