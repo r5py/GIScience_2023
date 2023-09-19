@@ -8,6 +8,8 @@ Steven Farber & Willem Klumpenhouwer
 
 **Steven Farber** & Willem Klumpenhouwer (2023). `Equity Analyses of Transport Futures. <https://doi.org/10.17605/OSF.IO/SJ3VX>`__
 
+*Note: If the video below does not play immediately, try again after a few minutes..*
+
 .. raw:: html
 
     <iframe src="https://drive.google.com/file/d/1I6Hvp4e5K987iOLwHPp1H95plndmjwrE/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
