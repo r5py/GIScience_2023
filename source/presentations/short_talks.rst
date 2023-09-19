@@ -15,7 +15,7 @@ Fulvio Lopane et al.
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8dV1pvHD9nnR-MAcXNhBdQvBb5OGT54B9WMNZzcUuwdmtGJFoqqjO5N9Ly1lv4w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1209" height="709" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8dV1pvHD9nnR-MAcXNhBdQvBb5OGT54B9WMNZzcUuwdmtGJFoqqjO5N9Ly1lv4w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Flavia Lopes et al.
 -------------------
